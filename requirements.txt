@@ -1,4 +1,4 @@
-langchain==0.0.27
-langchain-experimental==0.0.2
-streamlit==1.10.0
-pandas==1.5.3
+langchain
+langchain-experimental
+streamlit
+pandas
