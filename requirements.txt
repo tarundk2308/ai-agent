@@ -3,3 +3,4 @@ langchain-experimental
 streamlit
 pandas
 chardet
+langchain_groq
